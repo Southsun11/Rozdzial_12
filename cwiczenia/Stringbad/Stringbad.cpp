@@ -1,5 +1,6 @@
 #include "Stringbad.h"
 #include <cstring>
+#include <cctype>
 int Stringbad::num_strings = 0;
 Stringbad::Stringbad()
 {
@@ -105,3 +106,25 @@ bool operator<(const Stringbad& s1, const Stringbad& s2)
  {
 	 return num_strings;
 }
+  void Stringbad::stringlow()
+  {
+	  for (int i = 0; i < len; i++)
+	  {
+		  this->str[i] = tolower(this->str[i]);
+	  }
+
+  }
+  void Stringbad::stringupper()
+  {
+	  for (int i = 0; i < len; i++)
+		  this->str[i] = toupper(this->str[i]);
+  }
+
+  int Stringbad::howmany(char c)
+  {
+	  int number = 0;
+	  for (int i = 0; i < len; i++)
+		  if (this->str[i] == c)
+			  number++;
+	  return number;
+  }

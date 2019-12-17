@@ -8,12 +8,6 @@ void callme2(Stringbad);
 int main()
 {
 
-    Stringbad temp = "Dominik Momot";
-    Stringbad temp2 = " Programista";
-    Stringbad temp3;
-    temp3 = temp + temp2;
-    std::cout << temp3;
-    /*
     Stringbad name;
     std::cout << "Czesc jak masz na imię?\n";
     std::cin >> name;
@@ -60,7 +54,6 @@ int main()
     else
         std::cout << "Brak danych\n";
     return 0;
-    */
     
 
 

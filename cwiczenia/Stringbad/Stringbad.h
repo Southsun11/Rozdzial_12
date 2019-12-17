@@ -24,6 +24,9 @@ public:
 	char& operator[](int n);
 	const char& operator[](int  i) const;
 	static int How_Many();
+	void stringlow();
+	void stringupper();
+	int howmany(char);
 
 };
 
