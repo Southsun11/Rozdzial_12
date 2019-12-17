@@ -14,6 +14,7 @@ public:
 	Stringbad(const Stringbad&);
 	Stringbad& operator=(const Stringbad&);
 	Stringbad& operator=(const char*);
+	Stringbad operator+( const Stringbad&) const;
 	int length() { return len; }
 	friend bool operator<(const Stringbad&, const Stringbad&);
 	friend bool operator>(const Stringbad&, const Stringbad&);
@@ -23,5 +24,6 @@ public:
 	char& operator[](int n);
 	const char& operator[](int  i) const;
 	static int How_Many();
+
 };
 

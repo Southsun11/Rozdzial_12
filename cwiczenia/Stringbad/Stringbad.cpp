@@ -51,6 +51,18 @@ Stringbad& Stringbad::operator=(const char* s)
 	strncpy_s(this->str, this->len, s, this->len);
 	return *this;
 }
+
+
+Stringbad Stringbad::operator+(const Stringbad& c) const
+{
+	Stringbad temp;
+	temp.len = this->len + c.len;
+	temp.str = new char[temp.len];
+	strncpy_s(temp.str, temp.len, this->str, this->len);
+	strcat_s(temp.str,temp.len, c.str);
+	return temp;
+
+}
 std::ostream& operator<< (std::ostream& os, const Stringbad& str)
 {
 	os << str.str;
