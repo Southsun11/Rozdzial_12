@@ -1,6 +1,6 @@
 #include "Stock.h"
-
-Stock::Stock(int n = MAX)
+#include <iostream>
+Stock::Stock(int n)
 {
 	pitems = new Item[n];
 	size = n;
@@ -11,7 +11,7 @@ Stock::Stock(const Stock& st)
 	Item * temp = this->pitems;
 	this->pitems = new Item[st.size];
 	this->size = st.size;
-	this->top - st.top;
+	this->top = st.top;
 	for (int i = 0; i < top; i++)
 		this->pitems[i] = st.pitems[i];
 	delete[] temp;
@@ -20,6 +20,7 @@ Stock::Stock(const Stock& st)
 Stock::~Stock()
 {
 	delete[] this->pitems;
+	std::cout << "Destruktor" << std::endl;
 }
 bool Stock::isempty()
 {
@@ -42,7 +43,7 @@ bool Stock::pop(Item & item)
 	if (top == 0)
 		return false;
 	else
-		item = pitems[top--];
+		item = pitems[--top];
 	return true;
 }
 Stock& Stock::operator=(const Stock& s)
@@ -50,14 +51,13 @@ Stock& Stock::operator=(const Stock& s)
 	if (this == &s)
 		return *this;
 	Item* temp = this->pitems;
-	Stock temp = new temp();
-	temp.pitems = new Item[s.size];
+	this->pitems = new Item[s.size];
 	this->size = s.size;
-	this->top - st.top;
+	this->top = s.top;
 	for (int i = 0; i < top; i++)
 		this->pitems[i] = s.pitems[i];
 	delete[] temp;
-	return 
+	return *this;
 
 
 }
