@@ -1,0 +1,695 @@
+Liczba klientow: 0
+brak klientow
+Liczba klientow: 1
+Liczba klientow przyjetych: 89
+Liczba klientow obsluzonych: 89
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.00
+    srednia dlugosc kolejki 1: 0.00
+    sredni czas oczekwania obu  kolejek: 0.01 minut
+Liczba klientow: 2.00
+Liczba klientow przyjetych: 186
+Liczba klientow obsluzonych: 186
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.00
+    srednia dlugosc kolejki 1: 0.00
+    sredni czas oczekwania obu  kolejek: 0.04 minut
+Liczba klientow: 3.00
+Liczba klientow przyjetych: 339
+Liczba klientow obsluzonych: 339
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.00
+    srednia dlugosc kolejki 1: 0.00
+    sredni czas oczekwania obu  kolejek: 0.07 minut
+Liczba klientow: 4.00
+Liczba klientow przyjetych: 417
+Liczba klientow obsluzonych: 417
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.00
+    srednia dlugosc kolejki 1: 0.01
+    sredni czas oczekwania obu  kolejek: 0.08 minut
+Liczba klientow: 5.00
+Liczba klientow przyjetych: 472
+Liczba klientow obsluzonych: 472
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.00
+    srednia dlugosc kolejki 1: 0.01
+    sredni czas oczekwania obu  kolejek: 0.07 minut
+Liczba klientow: 6.00
+Liczba klientow przyjetych: 635
+Liczba klientow obsluzonych: 635
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.00
+    srednia dlugosc kolejki 1: 0.01
+    sredni czas oczekwania obu  kolejek: 0.09 minut
+Liczba klientow: 7.00
+Liczba klientow przyjetych: 712
+Liczba klientow obsluzonych: 712
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.00
+    srednia dlugosc kolejki 1: 0.02
+    sredni czas oczekwania obu  kolejek: 0.14 minut
+Liczba klientow: 8.00
+Liczba klientow przyjetych: 838
+Liczba klientow obsluzonych: 838
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.00
+    srednia dlugosc kolejki 1: 0.02
+    sredni czas oczekwania obu  kolejek: 0.18 minut
+Liczba klientow: 9.00
+Liczba klientow przyjetych: 946
+Liczba klientow obsluzonych: 946
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.00
+    srednia dlugosc kolejki 1: 0.03
+    sredni czas oczekwania obu  kolejek: 0.18 minut
+Liczba klientow: 10.00
+Liczba klientow przyjetych: 975
+Liczba klientow obsluzonych: 975
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.00
+    srednia dlugosc kolejki 1: 0.03
+    sredni czas oczekwania obu  kolejek: 0.19 minut
+Liczba klientow: 11.00
+Liczba klientow przyjetych: 1104
+Liczba klientow obsluzonych: 1104
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.00
+    srednia dlugosc kolejki 1: 0.04
+    sredni czas oczekwania obu  kolejek: 0.23 minut
+Liczba klientow: 12.00
+Liczba klientow przyjetych: 1246
+Liczba klientow obsluzonych: 1246
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.00
+    srednia dlugosc kolejki 1: 0.05
+    sredni czas oczekwania obu  kolejek: 0.26 minut
+Liczba klientow: 13.00
+Liczba klientow przyjetych: 1278
+Liczba klientow obsluzonych: 1278
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.00
+    srednia dlugosc kolejki 1: 0.05
+    sredni czas oczekwania obu  kolejek: 0.25 minut
+Liczba klientow: 14.00
+Liczba klientow przyjetych: 1403
+Liczba klientow obsluzonych: 1403
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.00
+    srednia dlugosc kolejki 1: 0.06
+    sredni czas oczekwania obu  kolejek: 0.27 minut
+Liczba klientow: 15.00
+Liczba klientow przyjetych: 1442
+Liczba klientow obsluzonych: 1442
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.00
+    srednia dlugosc kolejki 1: 0.07
+    sredni czas oczekwania obu  kolejek: 0.29 minut
+Liczba klientow: 16.00
+Liczba klientow przyjetych: 1560
+Liczba klientow obsluzonych: 1560
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.00
+    srednia dlugosc kolejki 1: 0.08
+    sredni czas oczekwania obu  kolejek: 0.30 minut
+Liczba klientow: 17.00
+Liczba klientow przyjetych: 1712
+Liczba klientow obsluzonych: 1712
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.00
+    srednia dlugosc kolejki 1: 0.09
+    sredni czas oczekwania obu  kolejek: 0.34 minut
+Liczba klientow: 18.00
+Liczba klientow przyjetych: 1848
+Liczba klientow obsluzonych: 1848
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.00
+    srednia dlugosc kolejki 1: 0.11
+    sredni czas oczekwania obu  kolejek: 0.36 minut
+Liczba klientow: 19.00
+Liczba klientow przyjetych: 1862
+Liczba klientow obsluzonych: 1862
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.00
+    srednia dlugosc kolejki 1: 0.11
+    sredni czas oczekwania obu  kolejek: 0.36 minut
+Liczba klientow: 20.00
+Liczba klientow przyjetych: 1957
+Liczba klientow obsluzonych: 1957
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.01
+    srednia dlugosc kolejki 1: 0.12
+    sredni czas oczekwania obu  kolejek: 0.39 minut
+Liczba klientow: 21.00
+Liczba klientow przyjetych: 2065
+Liczba klientow obsluzonych: 2065
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.00
+    srednia dlugosc kolejki 1: 0.13
+    sredni czas oczekwania obu  kolejek: 0.38 minut
+Liczba klientow: 22.00
+Liczba klientow przyjetych: 2191
+Liczba klientow obsluzonych: 2191
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.01
+    srednia dlugosc kolejki 1: 0.15
+    sredni czas oczekwania obu  kolejek: 0.43 minut
+Liczba klientow: 23.00
+Liczba klientow przyjetych: 2192
+Liczba klientow obsluzonych: 2192
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.01
+    srednia dlugosc kolejki 1: 0.14
+    sredni czas oczekwania obu  kolejek: 0.40 minut
+Liczba klientow: 24.00
+Liczba klientow przyjetych: 2363
+Liczba klientow obsluzonych: 2362
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.01
+    srednia dlugosc kolejki 1: 0.16
+    sredni czas oczekwania obu  kolejek: 0.43 minut
+Liczba klientow: 25.00
+Liczba klientow przyjetych: 2516
+Liczba klientow obsluzonych: 2515
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.01
+    srednia dlugosc kolejki 1: 0.18
+    sredni czas oczekwania obu  kolejek: 0.45 minut
+Liczba klientow: 26.00
+Liczba klientow przyjetych: 2589
+Liczba klientow obsluzonych: 2588
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.01
+    srednia dlugosc kolejki 1: 0.19
+    sredni czas oczekwania obu  kolejek: 0.47 minut
+Liczba klientow: 27.00
+Liczba klientow przyjetych: 2616
+Liczba klientow obsluzonych: 2616
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.01
+    srednia dlugosc kolejki 1: 0.19
+    sredni czas oczekwania obu  kolejek: 0.47 minut
+Liczba klientow: 28.00
+Liczba klientow przyjetych: 2781
+Liczba klientow obsluzonych: 2781
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.02
+    srednia dlugosc kolejki 1: 0.21
+    sredni czas oczekwania obu  kolejek: 0.49 minut
+Liczba klientow: 29.00
+Liczba klientow przyjetych: 2958
+Liczba klientow obsluzonych: 2957
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.02
+    srednia dlugosc kolejki 1: 0.23
+    sredni czas oczekwania obu  kolejek: 0.51 minut
+Liczba klientow: 30.00
+Liczba klientow przyjetych: 3077
+Liczba klientow obsluzonych: 3077
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.02
+    srednia dlugosc kolejki 1: 0.24
+    sredni czas oczekwania obu  kolejek: 0.51 minut
+Liczba klientow: 31.00
+Liczba klientow przyjetych: 3172
+Liczba klientow obsluzonych: 3172
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.02
+    srednia dlugosc kolejki 1: 0.25
+    sredni czas oczekwania obu  kolejek: 0.52 minut
+Liczba klientow: 32.00
+Liczba klientow przyjetych: 3125
+Liczba klientow obsluzonych: 3125
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.02
+    srednia dlugosc kolejki 1: 0.24
+    sredni czas oczekwania obu  kolejek: 0.51 minut
+Liczba klientow: 33.00
+Liczba klientow przyjetych: 3293
+Liczba klientow obsluzonych: 3293
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.03
+    srednia dlugosc kolejki 1: 0.28
+    sredni czas oczekwania obu  kolejek: 0.57 minut
+Liczba klientow: 34.00
+Liczba klientow przyjetych: 3421
+Liczba klientow obsluzonych: 3421
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.04
+    srednia dlugosc kolejki 1: 0.28
+    sredni czas oczekwania obu  kolejek: 0.56 minut
+Liczba klientow: 35.00
+Liczba klientow przyjetych: 3504
+Liczba klientow obsluzonych: 3503
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.04
+    srednia dlugosc kolejki 1: 0.29
+    sredni czas oczekwania obu  kolejek: 0.57 minut
+Liczba klientow: 36.00
+Liczba klientow przyjetych: 3613
+Liczba klientow obsluzonych: 3613
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.05
+    srednia dlugosc kolejki 1: 0.30
+    sredni czas oczekwania obu  kolejek: 0.59 minut
+Liczba klientow: 37.00
+Liczba klientow przyjetych: 3719
+Liczba klientow obsluzonych: 3719
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.05
+    srednia dlugosc kolejki 1: 0.32
+    sredni czas oczekwania obu  kolejek: 0.60 minut
+Liczba klientow: 38.00
+Liczba klientow przyjetych: 3767
+Liczba klientow obsluzonych: 3767
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.05
+    srednia dlugosc kolejki 1: 0.33
+    sredni czas oczekwania obu  kolejek: 0.60 minut
+Liczba klientow: 39.00
+Liczba klientow przyjetych: 3945
+Liczba klientow obsluzonych: 3945
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.08
+    srednia dlugosc kolejki 1: 0.35
+    sredni czas oczekwania obu  kolejek: 0.64 minut
+Liczba klientow: 40.00
+Liczba klientow przyjetych: 4027
+Liczba klientow obsluzonych: 4027
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.08
+    srednia dlugosc kolejki 1: 0.37
+    sredni czas oczekwania obu  kolejek: 0.67 minut
+Liczba klientow: 41.00
+Liczba klientow przyjetych: 4091
+Liczba klientow obsluzonych: 4091
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.08
+    srednia dlugosc kolejki 1: 0.38
+    sredni czas oczekwania obu  kolejek: 0.67 minut
+Liczba klientow: 42.00
+Liczba klientow przyjetych: 4266
+Liczba klientow obsluzonych: 4265
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.10
+    srednia dlugosc kolejki 1: 0.40
+    sredni czas oczekwania obu  kolejek: 0.71 minut
+Liczba klientow: 43.00
+Liczba klientow przyjetych: 4366
+Liczba klientow obsluzonych: 4365
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.11
+    srednia dlugosc kolejki 1: 0.43
+    sredni czas oczekwania obu  kolejek: 0.74 minut
+Liczba klientow: 44.00
+Liczba klientow przyjetych: 4411
+Liczba klientow obsluzonych: 4411
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.11
+    srednia dlugosc kolejki 1: 0.42
+    sredni czas oczekwania obu  kolejek: 0.72 minut
+Liczba klientow: 45.00
+Liczba klientow przyjetych: 4483
+Liczba klientow obsluzonych: 4482
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.13
+    srednia dlugosc kolejki 1: 0.44
+    sredni czas oczekwania obu  kolejek: 0.77 minut
+Liczba klientow: 46.00
+Liczba klientow przyjetych: 4596
+Liczba klientow obsluzonych: 4596
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.14
+    srednia dlugosc kolejki 1: 0.46
+    sredni czas oczekwania obu  kolejek: 0.78 minut
+Liczba klientow: 47.00
+Liczba klientow przyjetych: 4695
+Liczba klientow obsluzonych: 4695
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.15
+    srednia dlugosc kolejki 1: 0.46
+    sredni czas oczekwania obu  kolejek: 0.78 minut
+Liczba klientow: 48.00
+Liczba klientow przyjetych: 4780
+Liczba klientow obsluzonych: 4779
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.17
+    srednia dlugosc kolejki 1: 0.50
+    sredni czas oczekwania obu  kolejek: 0.84 minut
+Liczba klientow: 49.00
+Liczba klientow przyjetych: 4901
+Liczba klientow obsluzonych: 4900
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.21
+    srednia dlugosc kolejki 1: 0.55
+    sredni czas oczekwania obu  kolejek: 0.93 minut
+Liczba klientow: 50.00
+Liczba klientow przyjetych: 5025
+Liczba klientow obsluzonych: 5024
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.24
+    srednia dlugosc kolejki 1: 0.59
+    sredni czas oczekwania obu  kolejek: 0.99 minut
+Liczba klientow: 51.00
+Liczba klientow przyjetych: 5094
+Liczba klientow obsluzonych: 5093
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.23
+    srednia dlugosc kolejki 1: 0.58
+    sredni czas oczekwania obu  kolejek: 0.95 minut
+Liczba klientow: 52.00
+Liczba klientow przyjetych: 5186
+Liczba klientow obsluzonych: 5186
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.24
+    srednia dlugosc kolejki 1: 0.59
+    sredni czas oczekwania obu  kolejek: 0.96 minut
+Liczba klientow: 53.00
+Liczba klientow przyjetych: 5290
+Liczba klientow obsluzonych: 5289
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.37
+    srednia dlugosc kolejki 1: 0.76
+    sredni czas oczekwania obu  kolejek: 1.27 minut
+Liczba klientow: 54.00
+Liczba klientow przyjetych: 5399
+Liczba klientow obsluzonych: 5398
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.37
+    srednia dlugosc kolejki 1: 0.76
+    sredni czas oczekwania obu  kolejek: 1.26 minut
+Liczba klientow: 55.00
+Liczba klientow przyjetych: 5513
+Liczba klientow obsluzonych: 5510
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.69
+    srednia dlugosc kolejki 1: 1.11
+    sredni czas oczekwania obu  kolejek: 1.96 minut
+Liczba klientow: 56.00
+Liczba klientow przyjetych: 5580
+Liczba klientow obsluzonych: 5578
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.62
+    srednia dlugosc kolejki 1: 1.04
+    sredni czas oczekwania obu  kolejek: 1.78 minut
+Liczba klientow: 57.00
+Liczba klientow przyjetych: 5729
+Liczba klientow obsluzonych: 5729
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 0.81
+    srednia dlugosc kolejki 1: 1.24
+    sredni czas oczekwania obu  kolejek: 2.15 minut
+Liczba klientow: 58.00
+Liczba klientow przyjetych: 5810
+Liczba klientow obsluzonych: 5809
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 1.20
+    srednia dlugosc kolejki 1: 1.65
+    sredni czas oczekwania obu  kolejek: 2.95 minut
+Liczba klientow: 59.00
+Liczba klientow przyjetych: 5887
+Liczba klientow obsluzonych: 5880
+Liczba klientow odeslanych: 0
+    srednia dlugosc kolejki 1: 1.68
+    srednia dlugosc kolejki 1: 2.16
+    sredni czas oczekwania obu  kolejek: 3.91 minut
+Liczba klientow: 60.00
+Liczba klientow przyjetych: 5973
+Liczba klientow obsluzonych: 5971
+Liczba klientow odeslanych: 27
+    srednia dlugosc kolejki 1: 4.95
+    srednia dlugosc kolejki 1: 5.43
+    sredni czas oczekwania obu  kolejek: 10.43 minut
+Liczba klientow: 61.00
+Liczba klientow przyjetych: 5952
+Liczba klientow obsluzonych: 5942
+Liczba klientow odeslanych: 48
+    srednia dlugosc kolejki 1: 5.45
+    srednia dlugosc kolejki 1: 5.92
+    sredni czas oczekwania obu  kolejek: 11.47 minut
+Liczba klientow: 62.00
+Liczba klientow przyjetych: 5986
+Liczba klientow obsluzonych: 5976
+Liczba klientow odeslanych: 14
+    srednia dlugosc kolejki 1: 3.52
+    srednia dlugosc kolejki 1: 4.01
+    sredni czas oczekwania obu  kolejek: 7.55 minut
+Liczba klientow: 63.00
+Liczba klientow przyjetych: 5979
+Liczba klientow obsluzonych: 5970
+Liczba klientow odeslanych: 21
+    srednia dlugosc kolejki 1: 3.99
+    srednia dlugosc kolejki 1: 4.47
+    sredni czas oczekwania obu  kolejek: 8.50 minut
+Liczba klientow: 64.00
+Liczba klientow przyjetych: 5969
+Liczba klientow obsluzonych: 5961
+Liczba klientow odeslanych: 31
+    srednia dlugosc kolejki 1: 4.49
+    srednia dlugosc kolejki 1: 4.98
+    sredni czas oczekwania obu  kolejek: 9.53 minut
+Liczba klientow: 65.00
+Liczba klientow przyjetych: 5967
+Liczba klientow obsluzonych: 5950
+Liczba klientow odeslanych: 33
+    srednia dlugosc kolejki 1: 4.70
+    srednia dlugosc kolejki 1: 5.20
+    sredni czas oczekwania obu  kolejek: 9.96 minut
+Liczba klientow: 66.00
+Liczba klientow przyjetych: 5975
+Liczba klientow obsluzonych: 5971
+Liczba klientow odeslanych: 25
+    srednia dlugosc kolejki 1: 4.61
+    srednia dlugosc kolejki 1: 5.10
+    sredni czas oczekwania obu  kolejek: 9.76 minut
+Liczba klientow: 67.00
+Liczba klientow przyjetych: 5971
+Liczba klientow obsluzonych: 5966
+Liczba klientow odeslanych: 29
+    srednia dlugosc kolejki 1: 4.03
+    srednia dlugosc kolejki 1: 4.51
+    sredni czas oczekwania obu  kolejek: 8.58 minut
+Liczba klientow: 68.00
+Liczba klientow przyjetych: 5961
+Liczba klientow obsluzonych: 5950
+Liczba klientow odeslanych: 39
+    srednia dlugosc kolejki 1: 5.49
+    srednia dlugosc kolejki 1: 5.98
+    sredni czas oczekwania obu  kolejek: 11.55 minut
+Liczba klientow: 69.00
+Liczba klientow przyjetych: 5976
+Liczba klientow obsluzonych: 5959
+Liczba klientow odeslanych: 24
+    srednia dlugosc kolejki 1: 3.74
+    srednia dlugosc kolejki 1: 4.22
+    sredni czas oczekwania obu  kolejek: 7.99 minut
+Liczba klientow: 70.00
+Liczba klientow przyjetych: 5967
+Liczba klientow obsluzonych: 5963
+Liczba klientow odeslanych: 33
+    srednia dlugosc kolejki 1: 4.93
+    srednia dlugosc kolejki 1: 5.42
+    sredni czas oczekwania obu  kolejek: 10.41 minut
+Liczba klientow: 71.00
+Liczba klientow przyjetych: 5977
+Liczba klientow obsluzonych: 5960
+Liczba klientow odeslanych: 23
+    srednia dlugosc kolejki 1: 4.90
+    srednia dlugosc kolejki 1: 5.40
+    sredni czas oczekwania obu  kolejek: 10.34 minut
+Liczba klientow: 72.00
+Liczba klientow przyjetych: 5982
+Liczba klientow obsluzonych: 5970
+Liczba klientow odeslanych: 18
+    srednia dlugosc kolejki 1: 3.77
+    srednia dlugosc kolejki 1: 4.25
+    sredni czas oczekwania obu  kolejek: 8.05 minut
+Liczba klientow: 73.00
+Liczba klientow przyjetych: 5997
+Liczba klientow obsluzonych: 5991
+Liczba klientow odeslanych: 3
+    srednia dlugosc kolejki 1: 2.93
+    srednia dlugosc kolejki 1: 3.40
+    sredni czas oczekwania obu  kolejek: 6.33 minut
+Liczba klientow: 74.00
+Liczba klientow przyjetych: 5986
+Liczba klientow obsluzonych: 5979
+Liczba klientow odeslanych: 14
+    srednia dlugosc kolejki 1: 4.26
+    srednia dlugosc kolejki 1: 4.75
+    sredni czas oczekwania obu  kolejek: 9.03 minut
+Liczba klientow: 75.00
+Liczba klientow przyjetych: 5976
+Liczba klientow obsluzonych: 5970
+Liczba klientow odeslanych: 24
+    srednia dlugosc kolejki 1: 4.52
+    srednia dlugosc kolejki 1: 5.01
+    sredni czas oczekwania obu  kolejek: 9.58 minut
+Liczba klientow: 76.00
+Liczba klientow przyjetych: 5948
+Liczba klientow obsluzonych: 5938
+Liczba klientow odeslanych: 52
+    srednia dlugosc kolejki 1: 4.98
+    srednia dlugosc kolejki 1: 5.47
+    sredni czas oczekwania obu  kolejek: 10.55 minut
+Liczba klientow: 77.00
+Liczba klientow przyjetych: 5982
+Liczba klientow obsluzonych: 5970
+Liczba klientow odeslanych: 18
+    srednia dlugosc kolejki 1: 4.88
+    srednia dlugosc kolejki 1: 5.36
+    sredni czas oczekwania obu  kolejek: 10.27 minut
+Liczba klientow: 78.00
+Liczba klientow przyjetych: 5985
+Liczba klientow obsluzonych: 5985
+Liczba klientow odeslanych: 15
+    srednia dlugosc kolejki 1: 3.84
+    srednia dlugosc kolejki 1: 4.32
+    sredni czas oczekwania obu  kolejek: 8.18 minut
+Liczba klientow: 79.00
+Liczba klientow przyjetych: 5948
+Liczba klientow obsluzonych: 5930
+Liczba klientow odeslanych: 52
+    srednia dlugosc kolejki 1: 5.18
+    srednia dlugosc kolejki 1: 5.68
+    sredni czas oczekwania obu  kolejek: 10.95 minut
+Liczba klientow: 80.00
+Liczba klientow przyjetych: 5994
+Liczba klientow obsluzonych: 5994
+Liczba klientow odeslanych: 6
+    srednia dlugosc kolejki 1: 2.69
+    srednia dlugosc kolejki 1: 3.16
+    sredni czas oczekwania obu  kolejek: 5.86 minut
+Liczba klientow: 81.00
+Liczba klientow przyjetych: 5987
+Liczba klientow obsluzonych: 5981
+Liczba klientow odeslanych: 13
+    srednia dlugosc kolejki 1: 4.23
+    srednia dlugosc kolejki 1: 4.71
+    sredni czas oczekwania obu  kolejek: 8.97 minut
+Liczba klientow: 82.00
+Liczba klientow przyjetych: 5956
+Liczba klientow obsluzonych: 5953
+Liczba klientow odeslanych: 44
+    srednia dlugosc kolejki 1: 4.76
+    srednia dlugosc kolejki 1: 5.25
+    sredni czas oczekwania obu  kolejek: 10.09 minut
+Liczba klientow: 83.00
+Liczba klientow przyjetych: 5995
+Liczba klientow obsluzonych: 5985
+Liczba klientow odeslanych: 5
+    srednia dlugosc kolejki 1: 3.20
+    srednia dlugosc kolejki 1: 3.68
+    sredni czas oczekwania obu  kolejek: 6.89 minut
+Liczba klientow: 84.00
+Liczba klientow przyjetych: 5951
+Liczba klientow obsluzonych: 5935
+Liczba klientow odeslanych: 49
+    srednia dlugosc kolejki 1: 4.87
+    srednia dlugosc kolejki 1: 5.37
+    sredni czas oczekwania obu  kolejek: 10.33 minut
+Liczba klientow: 85.00
+Liczba klientow przyjetych: 5963
+Liczba klientow obsluzonych: 5958
+Liczba klientow odeslanych: 37
+    srednia dlugosc kolejki 1: 4.42
+    srednia dlugosc kolejki 1: 4.90
+    sredni czas oczekwania obu  kolejek: 9.39 minut
+Liczba klientow: 86.00
+Liczba klientow przyjetych: 5944
+Liczba klientow obsluzonych: 5934
+Liczba klientow odeslanych: 56
+    srednia dlugosc kolejki 1: 5.79
+    srednia dlugosc kolejki 1: 6.29
+    sredni czas oczekwania obu  kolejek: 12.21 minut
+Liczba klientow: 87.00
+Liczba klientow przyjetych: 5983
+Liczba klientow obsluzonych: 5974
+Liczba klientow odeslanych: 17
+    srednia dlugosc kolejki 1: 3.92
+    srednia dlugosc kolejki 1: 4.41
+    sredni czas oczekwania obu  kolejek: 8.35 minut
+Liczba klientow: 88.00
+Liczba klientow przyjetych: 5956
+Liczba klientow obsluzonych: 5943
+Liczba klientow odeslanych: 44
+    srednia dlugosc kolejki 1: 5.59
+    srednia dlugosc kolejki 1: 6.09
+    sredni czas oczekwania obu  kolejek: 11.78 minut
+Liczba klientow: 89.00
+Liczba klientow przyjetych: 5969
+Liczba klientow obsluzonych: 5957
+Liczba klientow odeslanych: 31
+    srednia dlugosc kolejki 1: 4.81
+    srednia dlugosc kolejki 1: 5.30
+    sredni czas oczekwania obu  kolejek: 10.16 minut
+Liczba klientow: 90.00
+Liczba klientow przyjetych: 5991
+Liczba klientow obsluzonych: 5987
+Liczba klientow odeslanych: 9
+    srednia dlugosc kolejki 1: 2.98
+    srednia dlugosc kolejki 1: 3.48
+    sredni czas oczekwania obu  kolejek: 6.47 minut
+Liczba klientow: 91.00
+Liczba klientow przyjetych: 5993
+Liczba klientow obsluzonych: 5981
+Liczba klientow odeslanych: 7
+    srednia dlugosc kolejki 1: 2.94
+    srednia dlugosc kolejki 1: 3.42
+    sredni czas oczekwania obu  kolejek: 6.36 minut
+Liczba klientow: 92.00
+Liczba klientow przyjetych: 5996
+Liczba klientow obsluzonych: 5983
+Liczba klientow odeslanych: 4
+    srednia dlugosc kolejki 1: 3.46
+    srednia dlugosc kolejki 1: 3.95
+    sredni czas oczekwania obu  kolejek: 7.42 minut
+Liczba klientow: 93.00
+Liczba klientow przyjetych: 5979
+Liczba klientow obsluzonych: 5972
+Liczba klientow odeslanych: 21
+    srednia dlugosc kolejki 1: 5.29
+    srednia dlugosc kolejki 1: 5.78
+    sredni czas oczekwania obu  kolejek: 11.12 minut
+Liczba klientow: 94.00
+Liczba klientow przyjetych: 5991
+Liczba klientow obsluzonych: 5989
+Liczba klientow odeslanych: 9
+    srednia dlugosc kolejki 1: 3.27
+    srednia dlugosc kolejki 1: 3.74
+    sredni czas oczekwania obu  kolejek: 7.03 minut
+Liczba klientow: 95.00
+Liczba klientow przyjetych: 5963
+Liczba klientow obsluzonych: 5958
+Liczba klientow odeslanych: 37
+    srednia dlugosc kolejki 1: 4.69
+    srednia dlugosc kolejki 1: 5.17
+    sredni czas oczekwania obu  kolejek: 9.93 minut
+Liczba klientow: 96.00
+Liczba klientow przyjetych: 5976
+Liczba klientow obsluzonych: 5960
+Liczba klientow odeslanych: 24
+    srednia dlugosc kolejki 1: 4.57
+    srednia dlugosc kolejki 1: 5.06
+    sredni czas oczekwania obu  kolejek: 9.67 minut
+Liczba klientow: 97.00
+Liczba klientow przyjetych: 5964
+Liczba klientow obsluzonych: 5953
+Liczba klientow odeslanych: 36
+    srednia dlugosc kolejki 1: 5.03
+    srednia dlugosc kolejki 1: 5.51
+    sredni czas oczekwania obu  kolejek: 10.62 minut
+Liczba klientow: 98.00
+Liczba klientow przyjetych: 5980
+Liczba klientow obsluzonych: 5973
+Liczba klientow odeslanych: 20
+    srednia dlugosc kolejki 1: 3.74
+    srednia dlugosc kolejki 1: 4.22
+    sredni czas oczekwania obu  kolejek: 7.99 minut
+Liczba klientow: 99.00
+Liczba klientow przyjetych: 5960
+Liczba klientow obsluzonych: 5949
+Liczba klientow odeslanych: 40
+    srednia dlugosc kolejki 1: 4.14
+    srednia dlugosc kolejki 1: 4.62
+    sredni czas oczekwania obu  kolejek: 8.82 minut

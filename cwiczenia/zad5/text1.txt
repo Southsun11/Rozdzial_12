@@ -1,0 +1,695 @@
+Liczba klientow: 0
+brak klientow
+Liczba klientow: 1
+Liczba klientow przyjetych: 87
+Liczba klientow obsluzonych: 87
+Liczba klientow odeslanych: 0
+line wait: 0
+    srednia dlugosc kolejki: 0.00
+    sredni czas oczekwani: 0.00 minut
+Liczba klientow: 2.00
+Liczba klientow przyjetych: 206
+Liczba klientow obsluzonych: 206
+Liczba klientow odeslanych: 0
+line wait: 7
+    srednia dlugosc kolejki: 0.00
+    sredni czas oczekwani: 0.03 minut
+Liczba klientow: 3.00
+Liczba klientow przyjetych: 303
+Liczba klientow obsluzonych: 303
+Liczba klientow odeslanych: 0
+line wait: 17
+    srednia dlugosc kolejki: 0.00
+    sredni czas oczekwani: 0.06 minut
+Liczba klientow: 4.00
+Liczba klientow przyjetych: 428
+Liczba klientow obsluzonych: 428
+Liczba klientow odeslanych: 0
+line wait: 63
+    srednia dlugosc kolejki: 0.01
+    sredni czas oczekwani: 0.15 minut
+Liczba klientow: 5.00
+Liczba klientow przyjetych: 476
+Liczba klientow obsluzonych: 476
+Liczba klientow odeslanych: 0
+line wait: 46
+    srednia dlugosc kolejki: 0.01
+    sredni czas oczekwani: 0.10 minut
+Liczba klientow: 6.00
+Liczba klientow przyjetych: 590
+Liczba klientow obsluzonych: 590
+Liczba klientow odeslanych: 0
+line wait: 86
+    srednia dlugosc kolejki: 0.01
+    sredni czas oczekwani: 0.15 minut
+Liczba klientow: 7.00
+Liczba klientow przyjetych: 700
+Liczba klientow obsluzonych: 700
+Liczba klientow odeslanych: 0
+line wait: 156
+    srednia dlugosc kolejki: 0.03
+    sredni czas oczekwani: 0.22 minut
+Liczba klientow: 8.00
+Liczba klientow przyjetych: 833
+Liczba klientow obsluzonych: 832
+Liczba klientow odeslanych: 0
+line wait: 140
+    srednia dlugosc kolejki: 0.02
+    sredni czas oczekwani: 0.17 minut
+Liczba klientow: 9.00
+Liczba klientow przyjetych: 894
+Liczba klientow obsluzonych: 894
+Liczba klientow odeslanych: 0
+line wait: 209
+    srednia dlugosc kolejki: 0.03
+    sredni czas oczekwani: 0.23 minut
+Liczba klientow: 10.00
+Liczba klientow przyjetych: 964
+Liczba klientow obsluzonych: 964
+Liczba klientow odeslanych: 0
+line wait: 327
+    srednia dlugosc kolejki: 0.05
+    sredni czas oczekwani: 0.34 minut
+Liczba klientow: 11.00
+Liczba klientow przyjetych: 1115
+Liczba klientow obsluzonych: 1115
+Liczba klientow odeslanych: 0
+line wait: 449
+    srednia dlugosc kolejki: 0.07
+    sredni czas oczekwani: 0.40 minut
+Liczba klientow: 12.00
+Liczba klientow przyjetych: 1199
+Liczba klientow obsluzonych: 1199
+Liczba klientow odeslanych: 0
+line wait: 510
+    srednia dlugosc kolejki: 0.09
+    sredni czas oczekwani: 0.43 minut
+Liczba klientow: 13.00
+Liczba klientow przyjetych: 1344
+Liczba klientow obsluzonych: 1344
+Liczba klientow odeslanych: 0
+line wait: 696
+    srednia dlugosc kolejki: 0.12
+    sredni czas oczekwani: 0.52 minut
+Liczba klientow: 14.00
+Liczba klientow przyjetych: 1418
+Liczba klientow obsluzonych: 1418
+Liczba klientow odeslanych: 0
+line wait: 832
+    srednia dlugosc kolejki: 0.14
+    sredni czas oczekwani: 0.59 minut
+Liczba klientow: 15.00
+Liczba klientow przyjetych: 1497
+Liczba klientow obsluzonych: 1497
+Liczba klientow odeslanych: 0
+line wait: 904
+    srednia dlugosc kolejki: 0.15
+    sredni czas oczekwani: 0.60 minut
+Liczba klientow: 16.00
+Liczba klientow przyjetych: 1594
+Liczba klientow obsluzonych: 1594
+Liczba klientow odeslanych: 0
+line wait: 1165
+    srednia dlugosc kolejki: 0.19
+    sredni czas oczekwani: 0.73 minut
+Liczba klientow: 17.00
+Liczba klientow przyjetych: 1690
+Liczba klientow obsluzonych: 1690
+Liczba klientow odeslanych: 0
+line wait: 1691
+    srednia dlugosc kolejki: 0.28
+    sredni czas oczekwani: 1.00 minut
+Liczba klientow: 18.00
+Liczba klientow przyjetych: 1812
+Liczba klientow obsluzonych: 1811
+Liczba klientow odeslanych: 0
+line wait: 1914
+    srednia dlugosc kolejki: 0.32
+    sredni czas oczekwani: 1.06 minut
+Liczba klientow: 19.00
+Liczba klientow przyjetych: 1923
+Liczba klientow obsluzonych: 1923
+Liczba klientow odeslanych: 0
+line wait: 2079
+    srednia dlugosc kolejki: 0.35
+    sredni czas oczekwani: 1.08 minut
+Liczba klientow: 20.00
+Liczba klientow przyjetych: 1981
+Liczba klientow obsluzonych: 1981
+Liczba klientow odeslanych: 0
+line wait: 2709
+    srednia dlugosc kolejki: 0.45
+    sredni czas oczekwani: 1.37 minut
+Liczba klientow: 21.00
+Liczba klientow przyjetych: 2090
+Liczba klientow obsluzonych: 2090
+Liczba klientow odeslanych: 0
+line wait: 3383
+    srednia dlugosc kolejki: 0.56
+    sredni czas oczekwani: 1.62 minut
+Liczba klientow: 22.00
+Liczba klientow przyjetych: 2160
+Liczba klientow obsluzonych: 2159
+Liczba klientow odeslanych: 0
+line wait: 3587
+    srednia dlugosc kolejki: 0.60
+    sredni czas oczekwani: 1.66 minut
+Liczba klientow: 23.00
+Liczba klientow przyjetych: 2323
+Liczba klientow obsluzonych: 2322
+Liczba klientow odeslanych: 0
+line wait: 5277
+    srednia dlugosc kolejki: 0.88
+    sredni czas oczekwani: 2.27 minut
+Liczba klientow: 24.00
+Liczba klientow przyjetych: 2424
+Liczba klientow obsluzonych: 2424
+Liczba klientow odeslanych: 0
+line wait: 6869
+    srednia dlugosc kolejki: 1.14
+    sredni czas oczekwani: 2.83 minut
+Liczba klientow: 25.00
+Liczba klientow przyjetych: 2526
+Liczba klientow obsluzonych: 2526
+Liczba klientow odeslanych: 1
+line wait: 8893
+    srednia dlugosc kolejki: 1.48
+    sredni czas oczekwani: 3.52 minut
+Liczba klientow: 26.00
+Liczba klientow przyjetych: 2598
+Liczba klientow obsluzonych: 2595
+Liczba klientow odeslanych: 8
+line wait: 9901
+    srednia dlugosc kolejki: 1.65
+    sredni czas oczekwani: 3.82 minut
+Liczba klientow: 27.00
+Liczba klientow przyjetych: 2748
+Liczba klientow obsluzonych: 2748
+Liczba klientow odeslanych: 46
+line wait: 17277
+    srednia dlugosc kolejki: 2.88
+    sredni czas oczekwani: 6.29 minut
+Liczba klientow: 28.00
+Liczba klientow przyjetych: 2800
+Liczba klientow obsluzonych: 2794
+Liczba klientow odeslanych: 30
+line wait: 21280
+    srednia dlugosc kolejki: 3.55
+    sredni czas oczekwani: 7.62 minut
+Liczba klientow: 29.00
+Liczba klientow przyjetych: 2858
+Liczba klientow obsluzonych: 2850
+Liczba klientow odeslanych: 64
+line wait: 24387
+    srednia dlugosc kolejki: 4.08
+    sredni czas oczekwani: 8.56 minut
+Liczba klientow: 30.00
+Liczba klientow przyjetych: 2894
+Liczba klientow obsluzonych: 2886
+Liczba klientow odeslanych: 90
+line wait: 27008
+    srednia dlugosc kolejki: 4.51
+    sredni czas oczekwani: 9.36 minut
+Liczba klientow: 31.00
+Liczba klientow przyjetych: 2935
+Liczba klientow obsluzonych: 2932
+Liczba klientow odeslanych: 147
+line wait: 31350
+    srednia dlugosc kolejki: 5.23
+    sredni czas oczekwani: 10.69 minut
+Liczba klientow: 32.00
+Liczba klientow przyjetych: 3009
+Liczba klientow obsluzonych: 3003
+Liczba klientow odeslanych: 176
+line wait: 38136
+    srednia dlugosc kolejki: 6.36
+    sredni czas oczekwani: 12.70 minut
+Liczba klientow: 33.00
+Liczba klientow przyjetych: 2997
+Liczba klientow obsluzonych: 2993
+Liczba klientow odeslanych: 285
+line wait: 40978
+    srednia dlugosc kolejki: 6.83
+    sredni czas oczekwani: 13.69 minut
+Liczba klientow: 34.00
+Liczba klientow przyjetych: 2996
+Liczba klientow obsluzonych: 2987
+Liczba klientow odeslanych: 475
+line wait: 47652
+    srednia dlugosc kolejki: 7.96
+    sredni czas oczekwani: 15.95 minut
+Liczba klientow: 35.00
+Liczba klientow przyjetych: 2987
+Liczba klientow obsluzonych: 2980
+Liczba klientow odeslanych: 487
+line wait: 46644
+    srednia dlugosc kolejki: 7.79
+    sredni czas oczekwani: 15.65 minut
+Liczba klientow: 36.00
+Liczba klientow przyjetych: 2969
+Liczba klientow obsluzonych: 2960
+Liczba klientow odeslanych: 627
+line wait: 50194
+    srednia dlugosc kolejki: 8.38
+    sredni czas oczekwani: 16.96 minut
+Liczba klientow: 37.00
+Liczba klientow przyjetych: 3016
+Liczba klientow obsluzonych: 3007
+Liczba klientow odeslanych: 682
+line wait: 50404
+    srednia dlugosc kolejki: 8.41
+    sredni czas oczekwani: 16.76 minut
+Liczba klientow: 38.00
+Liczba klientow przyjetych: 3056
+Liczba klientow obsluzonych: 3046
+Liczba klientow odeslanych: 690
+line wait: 49978
+    srednia dlugosc kolejki: 8.34
+    sredni czas oczekwani: 16.41 minut
+Liczba klientow: 39.00
+Liczba klientow przyjetych: 3011
+Liczba klientow obsluzonych: 3002
+Liczba klientow odeslanych: 899
+line wait: 51654
+    srednia dlugosc kolejki: 8.62
+    sredni czas oczekwani: 17.21 minut
+Liczba klientow: 40.00
+Liczba klientow przyjetych: 3022
+Liczba klientow obsluzonych: 3016
+Liczba klientow odeslanych: 958
+line wait: 51859
+    srednia dlugosc kolejki: 8.65
+    sredni czas oczekwani: 17.19 minut
+Liczba klientow: 41.00
+Liczba klientow przyjetych: 2985
+Liczba klientow obsluzonych: 2976
+Liczba klientow odeslanych: 1111
+line wait: 52919
+    srednia dlugosc kolejki: 8.83
+    sredni czas oczekwani: 17.78 minut
+Liczba klientow: 42.00
+Liczba klientow przyjetych: 3027
+Liczba klientow obsluzonych: 3018
+Liczba klientow odeslanych: 1147
+line wait: 53445
+    srednia dlugosc kolejki: 8.92
+    sredni czas oczekwani: 17.71 minut
+Liczba klientow: 43.00
+Liczba klientow przyjetych: 3068
+Liczba klientow obsluzonych: 3058
+Liczba klientow odeslanych: 1225
+line wait: 53493
+    srednia dlugosc kolejki: 8.93
+    sredni czas oczekwani: 17.49 minut
+Liczba klientow: 44.00
+Liczba klientow przyjetych: 2991
+Liczba klientow obsluzonych: 2981
+Liczba klientow odeslanych: 1379
+line wait: 54134
+    srednia dlugosc kolejki: 9.03
+    sredni czas oczekwani: 18.16 minut
+Liczba klientow: 45.00
+Liczba klientow przyjetych: 3020
+Liczba klientow obsluzonych: 3011
+Liczba klientow odeslanych: 1527
+line wait: 54637
+    srednia dlugosc kolejki: 9.12
+    sredni czas oczekwani: 18.15 minut
+Liczba klientow: 46.00
+Liczba klientow przyjetych: 3035
+Liczba klientow obsluzonych: 3026
+Liczba klientow odeslanych: 1557
+line wait: 54652
+    srednia dlugosc kolejki: 9.12
+    sredni czas oczekwani: 18.06 minut
+Liczba klientow: 47.00
+Liczba klientow przyjetych: 3016
+Liczba klientow obsluzonych: 3006
+Liczba klientow odeslanych: 1654
+line wait: 55037
+    srednia dlugosc kolejki: 9.19
+    sredni czas oczekwani: 18.31 minut
+Liczba klientow: 48.00
+Liczba klientow przyjetych: 3017
+Liczba klientow obsluzonych: 3008
+Liczba klientow odeslanych: 1731
+line wait: 55110
+    srednia dlugosc kolejki: 9.20
+    sredni czas oczekwani: 18.32 minut
+Liczba klientow: 49.00
+Liczba klientow przyjetych: 2975
+Liczba klientow obsluzonych: 2965
+Liczba klientow odeslanych: 1935
+line wait: 55665
+    srednia dlugosc kolejki: 9.30
+    sredni czas oczekwani: 18.77 minut
+Liczba klientow: 50.00
+Liczba klientow przyjetych: 3053
+Liczba klientow obsluzonych: 3043
+Liczba klientow odeslanych: 1959
+line wait: 55571
+    srednia dlugosc kolejki: 9.29
+    sredni czas oczekwani: 18.26 minut
+Liczba klientow: 51.00
+Liczba klientow przyjetych: 2998
+Liczba klientow obsluzonych: 2989
+Liczba klientow odeslanych: 2110
+line wait: 55959
+    srednia dlugosc kolejki: 9.34
+    sredni czas oczekwani: 18.72 minut
+Liczba klientow: 52.00
+Liczba klientow przyjetych: 2977
+Liczba klientow obsluzonych: 2967
+Liczba klientow odeslanych: 2201
+line wait: 56028
+    srednia dlugosc kolejki: 9.35
+    sredni czas oczekwani: 18.88 minut
+Liczba klientow: 53.00
+Liczba klientow przyjetych: 2976
+Liczba klientow obsluzonych: 2966
+Liczba klientow odeslanych: 2314
+line wait: 56090
+    srednia dlugosc kolejki: 9.36
+    sredni czas oczekwani: 18.91 minut
+Liczba klientow: 54.00
+Liczba klientow przyjetych: 3031
+Liczba klientow obsluzonych: 3021
+Liczba klientow odeslanych: 2398
+line wait: 56286
+    srednia dlugosc kolejki: 9.40
+    sredni czas oczekwani: 18.63 minut
+Liczba klientow: 55.00
+Liczba klientow przyjetych: 3038
+Liczba klientow obsluzonych: 3028
+Liczba klientow odeslanych: 2441
+line wait: 56270
+    srednia dlugosc kolejki: 9.39
+    sredni czas oczekwani: 18.58 minut
+Liczba klientow: 56.00
+Liczba klientow przyjetych: 2982
+Liczba klientow obsluzonych: 2973
+Liczba klientow odeslanych: 2613
+line wait: 56507
+    srednia dlugosc kolejki: 9.43
+    sredni czas oczekwani: 19.01 minut
+Liczba klientow: 57.00
+Liczba klientow przyjetych: 2955
+Liczba klientow obsluzonych: 2945
+Liczba klientow odeslanych: 2768
+line wait: 56686
+    srednia dlugosc kolejki: 9.46
+    sredni czas oczekwani: 19.25 minut
+Liczba klientow: 58.00
+Liczba klientow przyjetych: 3011
+Liczba klientow obsluzonych: 3002
+Liczba klientow odeslanych: 2782
+line wait: 56687
+    srednia dlugosc kolejki: 9.46
+    sredni czas oczekwani: 18.88 minut
+Liczba klientow: 59.00
+Liczba klientow przyjetych: 2979
+Liczba klientow obsluzonych: 2970
+Liczba klientow odeslanych: 2908
+line wait: 56771
+    srednia dlugosc kolejki: 9.48
+    sredni czas oczekwani: 19.11 minut
+Liczba klientow: 60.00
+Liczba klientow przyjetych: 3032
+Liczba klientow obsluzonych: 3023
+Liczba klientow odeslanych: 2968
+line wait: 56826
+    srednia dlugosc kolejki: 9.48
+    sredni czas oczekwani: 18.80 minut
+Liczba klientow: 61.00
+Liczba klientow przyjetych: 3024
+Liczba klientow obsluzonych: 3015
+Liczba klientow odeslanych: 2976
+line wait: 56779
+    srednia dlugosc kolejki: 9.48
+    sredni czas oczekwani: 18.83 minut
+Liczba klientow: 62.00
+Liczba klientow przyjetych: 3019
+Liczba klientow obsluzonych: 3010
+Liczba klientow odeslanych: 2981
+line wait: 56822
+    srednia dlugosc kolejki: 9.48
+    sredni czas oczekwani: 18.88 minut
+Liczba klientow: 63.00
+Liczba klientow przyjetych: 3000
+Liczba klientow obsluzonych: 2991
+Liczba klientow odeslanych: 3000
+line wait: 56868
+    srednia dlugosc kolejki: 9.49
+    sredni czas oczekwani: 19.01 minut
+Liczba klientow: 64.00
+Liczba klientow przyjetych: 3001
+Liczba klientow obsluzonych: 2992
+Liczba klientow odeslanych: 2999
+line wait: 56827
+    srednia dlugosc kolejki: 9.49
+    sredni czas oczekwani: 18.99 minut
+Liczba klientow: 65.00
+Liczba klientow przyjetych: 3027
+Liczba klientow obsluzonych: 3017
+Liczba klientow odeslanych: 2973
+line wait: 56790
+    srednia dlugosc kolejki: 9.48
+    sredni czas oczekwani: 18.82 minut
+Liczba klientow: 66.00
+Liczba klientow przyjetych: 2980
+Liczba klientow obsluzonych: 2971
+Liczba klientow odeslanych: 3020
+line wait: 56864
+    srednia dlugosc kolejki: 9.49
+    sredni czas oczekwani: 19.14 minut
+Liczba klientow: 67.00
+Liczba klientow przyjetych: 2975
+Liczba klientow obsluzonych: 2966
+Liczba klientow odeslanych: 3025
+line wait: 56837
+    srednia dlugosc kolejki: 9.49
+    sredni czas oczekwani: 19.16 minut
+Liczba klientow: 68.00
+Liczba klientow przyjetych: 3004
+Liczba klientow obsluzonych: 2995
+Liczba klientow odeslanych: 2996
+line wait: 56810
+    srednia dlugosc kolejki: 9.48
+    sredni czas oczekwani: 18.97 minut
+Liczba klientow: 69.00
+Liczba klientow przyjetych: 3018
+Liczba klientow obsluzonych: 3008
+Liczba klientow odeslanych: 2982
+line wait: 56808
+    srednia dlugosc kolejki: 9.48
+    sredni czas oczekwani: 18.89 minut
+Liczba klientow: 70.00
+Liczba klientow przyjetych: 2997
+Liczba klientow obsluzonych: 2988
+Liczba klientow odeslanych: 3003
+line wait: 56825
+    srednia dlugosc kolejki: 9.49
+    sredni czas oczekwani: 19.02 minut
+Liczba klientow: 71.00
+Liczba klientow przyjetych: 3004
+Liczba klientow obsluzonych: 2995
+Liczba klientow odeslanych: 2996
+line wait: 56823
+    srednia dlugosc kolejki: 9.49
+    sredni czas oczekwani: 18.97 minut
+Liczba klientow: 72.00
+Liczba klientow przyjetych: 3006
+Liczba klientow obsluzonych: 2996
+Liczba klientow odeslanych: 2994
+line wait: 56815
+    srednia dlugosc kolejki: 9.49
+    sredni czas oczekwani: 18.96 minut
+Liczba klientow: 73.00
+Liczba klientow przyjetych: 2982
+Liczba klientow obsluzonych: 2972
+Liczba klientow odeslanych: 3018
+line wait: 56861
+    srednia dlugosc kolejki: 9.49
+    sredni czas oczekwani: 19.13 minut
+Liczba klientow: 74.00
+Liczba klientow przyjetych: 2971
+Liczba klientow obsluzonych: 2961
+Liczba klientow odeslanych: 3029
+line wait: 56768
+    srednia dlugosc kolejki: 9.48
+    sredni czas oczekwani: 19.17 minut
+Liczba klientow: 75.00
+Liczba klientow przyjetych: 3021
+Liczba klientow obsluzonych: 3012
+Liczba klientow odeslanych: 2979
+line wait: 56794
+    srednia dlugosc kolejki: 9.48
+    sredni czas oczekwani: 18.86 minut
+Liczba klientow: 76.00
+Liczba klientow przyjetych: 2997
+Liczba klientow obsluzonych: 2988
+Liczba klientow odeslanych: 3003
+line wait: 56857
+    srednia dlugosc kolejki: 9.49
+    sredni czas oczekwani: 19.03 minut
+Liczba klientow: 77.00
+Liczba klientow przyjetych: 3012
+Liczba klientow obsluzonych: 3002
+Liczba klientow odeslanych: 2988
+line wait: 56790
+    srednia dlugosc kolejki: 9.48
+    sredni czas oczekwani: 18.92 minut
+Liczba klientow: 78.00
+Liczba klientow przyjetych: 3014
+Liczba klientow obsluzonych: 3004
+Liczba klientow odeslanych: 2986
+line wait: 56791
+    srednia dlugosc kolejki: 9.48
+    sredni czas oczekwani: 18.91 minut
+Liczba klientow: 79.00
+Liczba klientow przyjetych: 2995
+Liczba klientow obsluzonych: 2986
+Liczba klientow odeslanych: 3005
+line wait: 56884
+    srednia dlugosc kolejki: 9.49
+    sredni czas oczekwani: 19.05 minut
+Liczba klientow: 80.00
+Liczba klientow przyjetych: 3013
+Liczba klientow obsluzonych: 3004
+Liczba klientow odeslanych: 2987
+line wait: 56790
+    srednia dlugosc kolejki: 9.48
+    sredni czas oczekwani: 18.90 minut
+Liczba klientow: 81.00
+Liczba klientow przyjetych: 2994
+Liczba klientow obsluzonych: 2985
+Liczba klientow odeslanych: 3006
+line wait: 56834
+    srednia dlugosc kolejki: 9.49
+    sredni czas oczekwani: 19.04 minut
+Liczba klientow: 82.00
+Liczba klientow przyjetych: 3033
+Liczba klientow obsluzonych: 3024
+Liczba klientow odeslanych: 2967
+line wait: 56789
+    srednia dlugosc kolejki: 9.48
+    sredni czas oczekwani: 18.78 minut
+Liczba klientow: 83.00
+Liczba klientow przyjetych: 3019
+Liczba klientow obsluzonych: 3010
+Liczba klientow odeslanych: 2981
+line wait: 56833
+    srednia dlugosc kolejki: 9.48
+    sredni czas oczekwani: 18.88 minut
+Liczba klientow: 84.00
+Liczba klientow przyjetych: 3013
+Liczba klientow obsluzonych: 3003
+Liczba klientow odeslanych: 2987
+line wait: 56795
+    srednia dlugosc kolejki: 9.49
+    sredni czas oczekwani: 18.91 minut
+Liczba klientow: 85.00
+Liczba klientow przyjetych: 2958
+Liczba klientow obsluzonych: 2949
+Liczba klientow odeslanych: 3042
+line wait: 56868
+    srednia dlugosc kolejki: 9.50
+    sredni czas oczekwani: 19.28 minut
+Liczba klientow: 86.00
+Liczba klientow przyjetych: 3015
+Liczba klientow obsluzonych: 3006
+Liczba klientow odeslanych: 2985
+line wait: 56831
+    srednia dlugosc kolejki: 9.48
+    sredni czas oczekwani: 18.91 minut
+Liczba klientow: 87.00
+Liczba klientow przyjetych: 2981
+Liczba klientow obsluzonych: 2972
+Liczba klientow odeslanych: 3019
+line wait: 56831
+    srednia dlugosc kolejki: 9.49
+    sredni czas oczekwani: 19.12 minut
+Liczba klientow: 88.00
+Liczba klientow przyjetych: 2995
+Liczba klientow obsluzonych: 2985
+Liczba klientow odeslanych: 3005
+line wait: 56788
+    srednia dlugosc kolejki: 9.48
+    sredni czas oczekwani: 19.02 minut
+Liczba klientow: 89.00
+Liczba klientow przyjetych: 3003
+Liczba klientow obsluzonych: 2993
+Liczba klientow odeslanych: 2997
+line wait: 56785
+    srednia dlugosc kolejki: 9.48
+    sredni czas oczekwani: 18.97 minut
+Liczba klientow: 90.00
+Liczba klientow przyjetych: 3026
+Liczba klientow obsluzonych: 3016
+Liczba klientow odeslanych: 2974
+line wait: 56762
+    srednia dlugosc kolejki: 9.48
+    sredni czas oczekwani: 18.82 minut
+Liczba klientow: 91.00
+Liczba klientow przyjetych: 2993
+Liczba klientow obsluzonych: 2983
+Liczba klientow odeslanych: 3007
+line wait: 56826
+    srednia dlugosc kolejki: 9.49
+    sredni czas oczekwani: 19.05 minut
+Liczba klientow: 92.00
+Liczba klientow przyjetych: 2974
+Liczba klientow obsluzonych: 2964
+Liczba klientow odeslanych: 3026
+line wait: 56840
+    srednia dlugosc kolejki: 9.49
+    sredni czas oczekwani: 19.18 minut
+Liczba klientow: 93.00
+Liczba klientow przyjetych: 2999
+Liczba klientow obsluzonych: 2990
+Liczba klientow odeslanych: 3001
+line wait: 56814
+    srednia dlugosc kolejki: 9.49
+    sredni czas oczekwani: 19.00 minut
+Liczba klientow: 94.00
+Liczba klientow przyjetych: 3008
+Liczba klientow obsluzonych: 2998
+Liczba klientow odeslanych: 2992
+line wait: 56769
+    srednia dlugosc kolejki: 9.48
+    sredni czas oczekwani: 18.94 minut
+Liczba klientow: 95.00
+Liczba klientow przyjetych: 3070
+Liczba klientow obsluzonych: 3060
+Liczba klientow odeslanych: 2930
+line wait: 56748
+    srednia dlugosc kolejki: 9.47
+    sredni czas oczekwani: 18.55 minut
+Liczba klientow: 96.00
+Liczba klientow przyjetych: 2988
+Liczba klientow obsluzonych: 2979
+Liczba klientow odeslanych: 3012
+line wait: 56840
+    srednia dlugosc kolejki: 9.49
+    sredni czas oczekwani: 19.08 minut
+Liczba klientow: 97.00
+Liczba klientow przyjetych: 3033
+Liczba klientow obsluzonych: 3024
+Liczba klientow odeslanych: 2967
+line wait: 56774
+    srednia dlugosc kolejki: 9.48
+    sredni czas oczekwani: 18.77 minut
+Liczba klientow: 98.00
+Liczba klientow przyjetych: 3019
+Liczba klientow obsluzonych: 3009
+Liczba klientow odeslanych: 2981
+line wait: 56824
+    srednia dlugosc kolejki: 9.49
+    sredni czas oczekwani: 18.88 minut
+Liczba klientow: 99.00
+Liczba klientow przyjetych: 3005
+Liczba klientow obsluzonych: 2996
+Liczba klientow odeslanych: 2995
+line wait: 56843
+    srednia dlugosc kolejki: 9.49
+    sredni czas oczekwani: 18.97 minut
